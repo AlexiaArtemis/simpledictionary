@@ -16,7 +16,7 @@ You can install the Simple Dictionary from [PyPI](https://pypi.org/project/simpl
 pip install simple-dictionary
 ```
 
-The dictionary is supported on Python 2.7, as well as Python 3.5 and above.
+The dictionary is supported on Python 3.5 and above.
 
 ## How to use
 
@@ -36,5 +36,5 @@ If there is a typo in the name, the program will find a similar word and ask you
 $ dictionary acid rainn
 Did you mean acid rain ? y
 acid rain  means:
-Rain having a pH less than 5.6.
+1. definition: Rain having a pH less than 5.6.
 ```

@@ -10,7 +10,7 @@ README = (HERE / "README.md").read_text()
 # This call to setup() does all the work
 setup(
     name="simple-dictionary",
-    version="0.1.2",
+    version="0.1.3",
     description="Read the definition of a word",
     long_description=README,
     long_description_content_type="text/markdown",
@@ -21,7 +21,6 @@ setup(
     classifiers=[
         "License :: OSI Approved :: MIT License",
         "Programming Language :: Python",
-        "Programming Language :: Python :: 2",
         "Programming Language :: Python :: 3",
     ],
     packages=["dictionary"],
